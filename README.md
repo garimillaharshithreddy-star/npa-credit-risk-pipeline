@@ -149,4 +149,3 @@ Final portfolio summary:
 
 Data is not included in this repo. Get it from Kaggle: Home Credit Default Risk.
 
-Author: Bablu, NIT Warangal
